@@ -98,7 +98,7 @@ El proyecto permite obtener:
 ## Requisitos de uso
 Para trabajar el proyecto se necesita un entorno capaz de ejecutar notebooks de Jupyter y las dependencias habituales usadas en analisis de redes y optimizacion.
 
-Se recomienda ejecutar el notebook en orden, desde el inicio, para asegurar que la red y los modelos queden correctamente cargados antes de correr las secciones de sensibilidad y optimizacion.
+Se recomienda ejecutar el notebook en orden, desde el inicio (aunque si se quieren aplicar los algoritmos sin los cambios del analisis de sensibilidad, se debe poner atencion a las advertencias indicadas en el notebook), para asegurar que la red y los modelos queden correctamente cargados antes de correr las secciones de sensibilidad y optimizacion.
 
 ## Resumen
 Este proyecto estudia una misma red desde tres enfoques de optimizacion y presenta sus resultados de forma visual e interactiva, permitiendo analizar tanto el comportamiento base de la red como el efecto de cambios de sensibilidad sobre arcos especificos.
