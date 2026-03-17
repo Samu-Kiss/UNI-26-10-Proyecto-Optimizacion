@@ -1,0 +1,78 @@
+[
+  {
+    "file": "slides/00-portada.html",
+    "title": "Portada"
+  },
+  {
+    "file": "slides/01-desafio.html",
+    "title": "El Desafío"
+  },
+  {
+    "file": "slides/02-estructura.html",
+    "title": "Estructura del Modelo"
+  },
+  {
+    "file": "slides/03-grafo.html",
+    "title": "Visualización de la Red"
+  },
+  {
+    "file": "slides/04-metodologia.html",
+    "title": "Metodología"
+  },
+  {
+    "file": "slides/05-modelo1-intro.html",
+    "title": "Modelo 1 - Introducción"
+  },
+  {
+    "file": "slides/06-modelo1-simplex.html",
+    "title": "Modelo 1 - Simplex"
+  },
+  {
+    "file": "slides/07-modelo2-intro.html",
+    "title": "Modelo 2 - Introducción"
+  },
+  {
+    "file": "slides/08-modelo2-ff.html",
+    "title": "Modelo 2 - Ford-Fulkerson"
+  },
+  {
+    "file": "slides/09-modelo3-intro.html",
+    "title": "Modelo 3 - Introducción"
+  },
+  {
+    "file": "slides/10-escenarios.html",
+    "title": "Escenarios Simulados"
+  },
+  {
+    "file": "slides/11-analisis-sensibilidad-intro.html",
+    "title": "Análisis de Sensibilidad"
+  },
+  {
+    "file": "slides/12-sens-modelo1-intro.html",
+    "title": "Sensibilidad - Modelo 1 - Introducción"
+  },
+  {
+    "file": "slides/13-sens-modelo1-simplex.html",
+    "title": "Sensibilidad - Modelo 1 - Simplex"
+  },
+  {
+    "file": "slides/14-sens-modelo2-intro.html",
+    "title": "Sensibilidad - Modelo 2 - Introducción"
+  },
+  {
+    "file": "slides/15-sens-modelo2-ff.html",
+    "title": "Sensibilidad - Modelo 2 - Ford-Fulkerson"
+  },
+  {
+    "file": "slides/16-sens-modelo3-intro.html",
+    "title": "Sensibilidad - Modelo 3 - Introducción"
+  },
+  {
+    "file": "slides/17-conclusiones.html",
+    "title": "Conclusiones"
+  },
+  {
+    "file": "slides/18-gracias.html",
+    "title": "Agradecimientos"
+  }
+]

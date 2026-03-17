@@ -11,7 +11,7 @@ El caso esta contextualizado por el documento `Enunciado.pdf` y se desarrolla pr
 
 ## Archivos principales
 
-- `ProyectoOpti1.ipynb`: notebook principal del proyecto.
+- `ProyectoOpti1.ipynb`: notebook principal del proyecto. [VER EN COLAB](https://colab.research.google.com/github/Samu-Kiss/UNI-26-10-Proyecto-Optimizacion/blob/main/ProyectoOpti1.ipynb)
 - `matriz_de_datos2.csv`: datos base de la red.
 - `Enunciado.pdf`: planteamiento del problema.
 
